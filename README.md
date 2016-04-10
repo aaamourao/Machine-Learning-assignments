@@ -1,5 +1,5 @@
 # Machine Learning
-> Assignments' solutions for ML discpline on UFMG
+> Assignments' solutions for ML discipline on DCC/UFMG
 >
 > @aaamourao
 >
